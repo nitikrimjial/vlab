@@ -1,0 +1,53 @@
+.microscope {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+    background-color: rgb(184, 99, 241);
+    
+}
+.whole_body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+    border: 1px black solid;
+    
+  }
+  .lense {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+  }
+  .nose {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+  }
+  .glass {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+  }
+  .middle_body {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+  }
+  .knobe_small {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: auto;
+  }
