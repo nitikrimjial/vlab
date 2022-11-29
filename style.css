@@ -7,6 +7,10 @@
     background-color: rgb(184, 99, 241);
     
 }
+.mic{
+  max-width: 40%;
+  max-height: auto;
+}
 .whole_body {
     position: absolute;
     top: 0;
